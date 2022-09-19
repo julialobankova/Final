@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vadim\\Desktop\\DZ\\Final\\Code\\Code.csproj": {}
+    "C:\\Users\\user\\Desktop\\Новая папка\\Final\\Code\\Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vadim\\Desktop\\DZ\\Final\\Code\\Code.csproj": {
+    "C:\\Users\\user\\Desktop\\Новая папка\\Final\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vadim\\Desktop\\DZ\\Final\\Code\\Code.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка\\Final\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "C:\\Users\\Vadim\\Desktop\\DZ\\Final\\Code\\Code.csproj",
-        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vadim\\Desktop\\DZ\\Final\\Code\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка\\Final\\Code\\Code.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка\\Final\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
