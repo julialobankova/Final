@@ -1,5 +1,5 @@
 ﻿
-void Method(string[] array1, string[] array2)
+void NoMoreThreeLines(string[] array1, string[] array2)
 {
     int count = 0;
     for (int i = 0; i < array1.Length; i++)
@@ -21,7 +21,7 @@ void PrintArray(string[] array)
 }
 string[] array1 = new string[5] {"1234", "56", "home", "world", "mrs"};
 string[] array2 = new string[array1.Length];
-Method(array1, array2);
+NoMoreThreeLines(array1, array2);
 Console.Write("Исходный массив:");
 PrintArray( array1);
 Console.Write("Новый массив:");
